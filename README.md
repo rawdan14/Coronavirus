@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is designed to Make Datebase for matgata jewellry store.
+## This project is designed to Make Datebase for matgata jewellry store.
 
 1.**I designed a database model in MySQL.**
 2.**Created the proposed database model.**
