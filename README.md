@@ -1,13 +1,13 @@
-# Desiging DataBase
+# Data 
 
 ## Project Description
 
-## This project is designed to Make Datebase for matgata jewellry store.
+## A data cleaning portfolio project using SQL for the Corona virus data
 
-1.**I designed a database model in MySQL.**
-2.**Created the proposed database model.**
-3.**I implemented the database schema inside MySQL server using the Forward Engineer method.** 
-4.**I created a virtual table to summarize data from multiple tables.**
+1.  **I downloaded the dataset from kaggle.**
+2. **I imported it to mysql.**
+3. **I implemented sql scripts to clean the data.**
+4. **I used intensive queries to analyze the data.**
 
 
 
